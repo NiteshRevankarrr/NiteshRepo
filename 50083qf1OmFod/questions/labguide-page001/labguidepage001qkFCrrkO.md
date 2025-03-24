@@ -5,11 +5,10 @@ Question Type : Single Choice
 Test1
 
 ## Options
-Option 1: Test1T
-Option 2: TestT2
+Option 1: TestT2
 
 ## Answers
-Option 1 : 10
+Option 1 : 30
 
 ## Correct Answer Feedback
 Correct
