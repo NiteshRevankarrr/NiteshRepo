@@ -1,1 +1,1 @@
-page 2
+page 2<inject cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" defaultValue="hi"/>
