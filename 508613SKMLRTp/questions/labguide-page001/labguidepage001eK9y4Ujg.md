@@ -12,5 +12,5 @@ Option 2: Test 2
 Option 1 : 0
 
 ## Number of Retries
-0
+3
 
