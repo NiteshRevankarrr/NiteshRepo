@@ -1,1 +1,1 @@
-<inject key="cloudlabsdeploymentid" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" /><inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
+<inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
