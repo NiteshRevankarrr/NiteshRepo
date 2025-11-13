@@ -1,1 +1,1 @@
-pahe 2
+<inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
