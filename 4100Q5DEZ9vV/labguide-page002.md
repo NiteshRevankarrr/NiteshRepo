@@ -1,1 +1,2 @@
 page 2
+<inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="true" enableClickToPaste="true" /><inject key="customhandleruserpassword" cloudname="Microsoft Azure" enableCopy="false" enableClickToPaste="false" />
